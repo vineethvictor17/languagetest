@@ -31,7 +31,7 @@ const Main = () => {
         <div className="Content">
             <div className="Header">
                 <div className="Layer">
-                    Events
+                    Manage Campaigns
                 </div>
             </div>
             <div className="Body">
